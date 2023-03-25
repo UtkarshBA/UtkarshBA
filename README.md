@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtkarshBA
-- 👀 I’m interested in data analysis and business analysis 
-- 🌱 I’m currently learning Python, sql, EDA, statical analysis 
+- 👀 Working in data analysis,business analysis , Data science domain
+- 🌱 Skill set Python, sql, EDA, statical analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
